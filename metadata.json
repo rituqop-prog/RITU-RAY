@@ -1,0 +1,6 @@
+{
+  "name": "TSL ESPORTS",
+  "description": "A comprehensive tournament management app with real-time leaderboards, admin panel, and payment integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
